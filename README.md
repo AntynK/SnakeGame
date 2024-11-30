@@ -1,5 +1,8 @@
 # Snake game
-Popular game 'snake' written in Python.
+> [!NOTE]
+> Цей документ має переклад [українською](README_UA.md).
+
+A popular game, Snake, written in Python.
 
 ## Requirements
 Python version 3.9 or later.

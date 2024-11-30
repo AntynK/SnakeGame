@@ -1,4 +1,7 @@
 # Гра Змійка
+> [!NOTE]
+> An [English](README.md) version of this document is available.
+
 Класична гра змійка написана на мові Python з використанням [Pygame](https://www.pygame.org/docs/).
 
 ## Вимоги
